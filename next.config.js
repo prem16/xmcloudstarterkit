@@ -28,7 +28,8 @@ const nextConfig = {
     // prefixed path e.g. `/styleguide`.
     defaultLocale: packageConfig.language,
   },
-  
+  // enable react standalone
+   output:"standalone",
   // Enable React Strict Mode
   reactStrictMode: true,
 
