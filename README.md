@@ -1,4 +1,13 @@
 # Sitecore JSS Next.js Sample Application
 
+start with this project follow the steps:
 
-[Documentation](https://doc.sitecore.com/xp/en/developers/hd/200/sitecore-headless-development/sitecore-javascript-rendering-sdk--jss--for-next-js.html).
+download or clone it
+
+1. npm install
+2. npm install -g @sitecore-jss/sitecore-jss-cli
+3. configure your .env file according to your xm cloud portal app
+4. run this nextjs app in connected mode command: jss start:connected
+
+It will lunch in localhost 3000
+
